@@ -1,2 +1,4 @@
-# Ola Mundo
+# Ola, Mundo!
  Meus Primeiros passos em JS e Git/GitHub 
+
+ Repositorio criado durante a Quarentena
